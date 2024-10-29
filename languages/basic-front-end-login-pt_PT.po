@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Basic Front-End Login\n"
+"POT-Creation-Date: 2024-10-22 14:44-0500\n"
+"PO-Revision-Date: 2024-10-22 14:46-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ee-basic-front-end-login.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/ee-functions.php:21
+msgid "Log out of this website"
+msgstr "Sair deste sítio Web"
+
+#: includes/ee-functions.php:22
+msgid "Log Out"
+msgstr "Sair"
+
+#: includes/ee-functions.php:39 includes/ee-functions.php:241
+msgid "Basic Front-End Login Form"
+msgstr "Formulário Básico de Login Front-End"
+
+#: includes/ee-functions.php:40
+msgid "Login Form"
+msgstr "Formulário de Login"
+
+#: includes/ee-functions.php:102
+msgid "Username"
+msgstr "Nome de utilizador"
+
+#: includes/ee-functions.php:103
+msgid "Password"
+msgstr "Senha"
+
+#: includes/ee-functions.php:104
+msgid "Remember Me"
+msgstr "Lembrar-me"
+
+#: includes/ee-functions.php:105
+msgid "Log In"
+msgstr "Entrar"
+
+#: includes/ee-functions.php:118
+msgid "Logout"
+msgstr "Sair"
+
+#: includes/ee-functions.php:244
+msgid ""
+"This plugin provides you with a basic front-end login form for any page, "
+"post or widget."
+msgstr ""
+"Este plugin fornece-lhe um formulário de login básico de front-end para "
+"qualquer página, post ou widget."
+
+#: includes/ee-functions.php:244
+msgid "It will also redirect to the page you choose."
+msgstr "Ele também será redirecionado para a página que você escolher."
+
+#: includes/ee-functions.php:245
+msgid "It also blocks access to the back-end and hides the Admin Bar."
+msgstr ""
+"Também bloqueia o acesso ao back-end e esconde a barra de administração."
+
+#: includes/ee-functions.php:246
+msgid ""
+"To display the login form, place this shortcode on any page, post, or widget:"
+msgstr ""
+"Para exibir o formulário de login, coloque este atalho em qualquer página, "
+"post ou widget:"
+
+#: includes/ee-functions.php:250
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/ee-functions.php:251
+msgid "Shortcode for the login form"
+msgstr "Código curto para o formulário de início de sessão"
+
+#: includes/ee-functions.php:252
+msgid "Copy shortcode to clipboard"
+msgstr "Copiar código curto para a área de transferência"
+
+#: includes/ee-functions.php:252
+msgid "Copy Shortcode"
+msgstr "Copiar shortcode"
+
+#: includes/ee-functions.php:259
+msgid "Options"
+msgstr "Opções"
+
+#: includes/ee-functions.php:261 includes/ee-functions.php:263
+msgid "Redirect URL"
+msgstr "Redirecionar URL"
+
+#: includes/ee-functions.php:265
+msgid ""
+"After login, go to this page. You can override this by using the "
+"\"redirect\" attribute in the shortcode."
+msgstr ""
+"Depois de iniciar sessão, aceda a esta página. Pode substituir isto "
+"utilizando o atributo \"redirect\" no shortcode."
+
+#: includes/ee-functions.php:266
+msgid ""
+"You can over-ride this to create multiple login forms by using this "
+"shortcode attribute:"
+msgstr ""
+"Você pode substituir isto para criar vários formulários de login usando este "
+"atributo de atalho:"
+
+#: includes/ee-functions.php:271
+msgid "Restrict Dashboard Access"
+msgstr "Restringir o acesso do painel de controlo"
+
+#: includes/ee-functions.php:273
+msgid "Select roles that should be denied access to the Dashboard."
+msgstr "Selecione as funções às quais deve ser negado o acesso ao Painel."
+
+#: includes/ee-functions.php:273
+msgid ""
+"This setting is for when you want your users to be logged-in, but do not "
+"want them to have access to the Wordpress Dashboard."
+msgstr ""
+"Esta configuração é para quando você quer que seus usuários estejam "
+"conectados, mas não quer que eles tenham acesso ao Painel de Controle do "
+"Wordpress."
+
+#: includes/ee-functions.php:287
+msgid "Check all roles"
+msgstr "Verificar todas as funções"
+
+#: includes/ee-functions.php:287
+msgid "Check All"
+msgstr "Marcar Todos"
+
+#: includes/ee-functions.php:288
+msgid "Uncheck all roles"
+msgstr "Desmarcar todas as funções"
+
+#: includes/ee-functions.php:288
+msgid "Uncheck All"
+msgstr "Desmarcar tudo"
+
+#: includes/ee-functions.php:291
+msgid "Selected roles will not see the Admin Bar or access the Dashboard."
+msgstr ""
+"As funções selecionadas não verão a barra de administração nem acederão ao "
+"painel de controlo."
+
+#: includes/ee-functions.php:295
+msgid "Logout Button"
+msgstr "Botão de Logout"
+
+#: includes/ee-functions.php:299
+msgid "Show Logout Button"
+msgstr "Mostrar botão de terminar sessão"
+
+#: includes/ee-functions.php:303
+msgid ""
+"Show a \"Log Out\" button at the bottom-right corner of each page for logged-"
+"in users."
+msgstr ""
+"Mostrar um botão \"Terminar sessão\" no canto inferior direito de cada "
+"página para os utilizadores com sessão iniciada."
+
+#: includes/ee-functions.php:310
+msgid "Save Settings"
+msgstr "Guardar definições"
+
+#: includes/ee-functions.php:310
+msgid "Save form settings"
+msgstr "Guardar definições do formulário"
+
+#. Plugin Name of the plugin/theme
+#: includes/ee-functions.php:314
+msgid "Basic Front-End Login"
+msgstr "Login Básico Front-End"
+
+#: includes/ee-functions.php:315
+msgid "Version"
+msgstr "Versão"
+
+#: includes/ee-functions.php:315
+msgid "Plugin by"
+msgstr "Plugin por"
+
+#. Plugin URI of the plugin/theme
+msgid "https://simplefilelist.com/basic-front-end-login/"
+msgstr "https://simplefilelist.com/basic-front-end-login/"
+
+#. Description of the plugin/theme
+msgid ""
+"A very simple front-end login form which can also disable access to the back-"
+"end."
+msgstr ""
+"Um formulário de login muito simples, que também pode desativar o acesso ao "
+"back-end."
+
+#. Author of the plugin/theme
+msgid "Mitchell Bennis"
+msgstr "Mitchell Bennis"
+
+#. Author URI of the plugin/theme
+msgid "https://elementengage.com"
+msgstr "https://elementengage.com"
+
+#~ msgid "Default Login Redirect"
+#~ msgstr "Redirecionamento de login predefinido"
+
+#~ msgid "After login, go to this page."
+#~ msgstr "Após o login, vá para esta página."
+
+#~ msgid "SAVE"
+#~ msgstr "GUARDAR"
+
+#~ msgid "Basic Front End Login"
+#~ msgstr "Login Básico no Front End"
+
+#~ msgid "Please donate if you find this plugin useful."
+#~ msgstr "Por favor, doe se achar este plugin útil."
